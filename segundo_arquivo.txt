@@ -1,0 +1,3 @@
+segundo_arquivo, criado numa branch no fork, pra ver onde ele vai publicar.
+
+sobre a branch, quando eu criei local, beleza, quando eu publiquei, ele perguntou onde eu queria publicar, se no upstream (original da onde veio o fork) ou no fork (que ele chama de origin).
