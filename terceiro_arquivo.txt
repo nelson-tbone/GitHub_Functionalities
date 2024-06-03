@@ -1,0 +1,1 @@
+Terceiro arquivo, criado pra eu fazer uns testes de comentários no commit, para ter uma documentação mais completa dos commits.
