@@ -1,1 +1,3 @@
 Terceiro arquivo, criado pra eu fazer uns testes de comentários no commit, para ter uma documentação mais completa dos commits.
+
+modificações em terceiro_arquivo que deverão aparecer em alteracoes_1;
