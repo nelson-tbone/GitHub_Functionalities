@@ -1,3 +1,4 @@
 essas são as alterações da branch alteracoes_2, que será merjada em main e depois puxada para alteracoes_1;
 
 também foram feitas alterações no arquivo terceiro_arquivo.txt que deverão aparecer na branch alteracoes_1;
+na verdade eu esqueci de fazer as alterações;
