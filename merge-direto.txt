@@ -1,0 +1,1 @@
+esse arquivo é pra ser merjado direto em main, sem pull request.
