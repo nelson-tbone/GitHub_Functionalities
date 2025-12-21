@@ -1,0 +1,9 @@
+o que eu quero fazer:
+  - criar uma branch para fazer alterações (alteracoes_1);
+  - criar outra branch para fazer outras alterações (alteracoes_2);
+  - juntar alterações de uma branch para outra, da seguinte forma:
+    - a branch alteracoes_2 vai começar depois de alteracoes_1;
+    - as alterações de alteracoes_2 vão ser merjadas na main;
+    - as alterações da master serão merjadas na alteracoes_1;
+
+então, no final deu certo, criando mais branches a partir de main e puxando as alterações efetivadas em main para a branch alteracoes_1 que estava aberta, usando pull from... main.
